@@ -1,0 +1,24 @@
+@charset "utf-8";
+img.bg {
+	min-height: 100%;
+	min-width: 100%;
+	
+	width: 100%; height: 100%;
+		
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+img {position:absolute;}
+.redo_0000_Layer-9{
+   left: 394px;
+  top: 219px;
+}
+.purple_0000_Layer-11{
+	left: 525px;
+  top: 335px;
+}
